@@ -29,4 +29,4 @@ Le dashboard s’adapte aux écrans mobiles (layout en colonne).
 
 ##  Installation
 ```bash
-git clone https://github.com/ton-pseudo/tp_variable_css.git
+git clone https://github.com/Robiang/tp_variable_css.git
